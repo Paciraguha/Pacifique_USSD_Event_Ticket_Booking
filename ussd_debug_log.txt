@@ -1,0 +1,15 @@
+Array
+(
+    [serviceCode] => *384*6966#
+    [phoneNumber] => +250782490437
+    [sessionId] => 
+    [text] => 
+)
+Array
+(
+    [serviceCode] => *384*6966#
+    [phoneNumber] => +250782490437
+    [sessionId] => 
+    [text] => 
+)
+Error: Missing sessionId
